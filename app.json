@@ -1,5 +1,5 @@
 {
-  "name": "whatsapp-bot (GURU-BOT)",
+  "name": "GURU-BOT",
   "description": " Whatsapp bot.",
   "keywords": [
     "whatsapp bot"
@@ -10,12 +10,12 @@
     "DATABASE_URL": {
       "description": "your mongodb database url",
       "required": false,
-      "value": ""
+      "value": "mongodb+srv://mongo:Strawcake12@cluster0.o4vaeps.mongodb.net/?retryWrites=true&w=majority"
     },
     "SESSION_ID": {
       "description": "your session id",
       "required": true,
-      "value": ""
+      "value": "Guru_HonchoBuying"
     },
      "REMOVEBG_KEY": {
       "description": "your RemoveBg api key",
