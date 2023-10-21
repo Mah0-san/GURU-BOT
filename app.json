@@ -1,6 +1,6 @@
 {
   "name": "GURU-BOT",
-  "description": " Whatsapp bot.",
+  "description": " Whatsapp Bot by Mah0_san",
   "keywords": [
     "whatsapp bot"
   ],
@@ -15,12 +15,12 @@
     "SESSION_ID": {
       "description": "your session id",
       "required": true,
-      "value": "Guru_HonchoBuying"
+      "value": "Guru_EmptiedMyriad"
     },
      "REMOVEBG_KEY": {
       "description": "your RemoveBg api key",
       "required": false,
-      "value": ""
+      "value": "NbJ3VpeWd3GH1GMU4DPEfYnS"
     }
     },
     "buildpacks": [
